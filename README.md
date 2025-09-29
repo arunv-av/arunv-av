@@ -26,13 +26,13 @@
  <img src="springsecurity.png" alt="springsecurity" width="40" height="40"/>
  <img src="sql.png" alt="sql" width="40" height="40"/>
  <img src="thymeleaf.png" alt="thymeleaf" width="40" height="40"/>
- <img src="docker.png" alt="docker" width="40" height="40"/>
+ <img src="docker.jpg" alt="docker" width="40" height="40"/>
  <img src="eclipse.png" alt="eclipse" width="40" height="40"/>
  <img src="intellij.jpeg" alt="intellij" width="40" height="40"/>
  <img src="vscode.webp" alt="vscode" width="40" height="40"/>
  <img src="hibernate.png" alt="hibernate" width="40" height="40"/>
  <img src="maven.png" alt="maven" width="40" height="40"/>
- <img src="microservices.png" alt="microservices" width="40" height="40"/>
+ <img src="microservices.jpg" alt="microservices" width="40" height="40"/>
  <img src="rest.png" alt="rest" width="40" height="40"/>
  
 </p>
