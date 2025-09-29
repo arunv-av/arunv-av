@@ -41,7 +41,7 @@
  <img src="maven.png" alt="maven" width="40" height="40"/>
  <img src="microservices.jpg" alt="microservices" width="40" height="40"/>
  <img src="rest.png" alt="rest" width="40" height="40"/>
- <img src="docker.png" alt="docker" width="40" height="40"/>
+ <img src="aws.png" alt="aws" width="40" height="40"/>
  <img src="docker.png" alt="docker" width="40" height="40"/>
  <img src="bootstrap.png" alt="bootstrap" width="40" height="40"/>
  <img src="chatgpt.jpg" alt="chatgpt" width="40" height="40"/>
