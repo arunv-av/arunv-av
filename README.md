@@ -24,35 +24,39 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <img src="thymeleaf.png" alt="thymeleaf" width="40" height="40"/>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <img src="tailwind.png" alt="tailwind" width="40" height="40"/>
+ <img src="bootstrap.png" alt="bootstrap" width="40" height="40"/>
+ <img src="thymeleaf.png" alt="thymeleaf" width="40" height="40"/>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <img src="mysql.png" alt="mysql" width="40" height="40"/>
+ <img src="postgres.jpeg" alt="postgres" width="40" height="40"/>
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+ <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+  <img src="junit.png" alt="junit" width="40" height="40"/>
+   <img src="mockito.png" alt="mockito" width="40" height="40"/>
+   <img src="jira.jpeg" alt="jira" width="40" height="40"/>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<br/>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <img src="spring-boot-1.svg" alt="springboot" width="40" height="40"/>
  <img src="springai.png" alt="springai" width="40" height="40"/>
  <img src="springdata.png" alt="springdata" width="40" height="40"/>
  <img src="springsecurity.png" alt="springsecurity" width="40" height="40"/>
-   <br/>
- <img src="eclipse.png" alt="eclipse" width="40" height="40"/>
- <img src="intellij.jpeg" alt="intellij" width="40" height="40"/>
- <img src="vscode.webp" alt="vscode" width="40" height="40"/>
  <img src="hibernate.png" alt="hibernate" width="40" height="40"/>
  <img src="maven.png" alt="maven" width="40" height="40"/>
  <img src="microservices.jpg" alt="microservices" width="40" height="40"/>
  <img src="rest.png" alt="rest" width="40" height="40"/>
- <img src="aws.png" alt="aws" width="40" height="40"/>
+ <img src="eclipse.png" alt="eclipse" width="40" height="40"/>
+ <img src="intellij.jpeg" alt="intellij" width="40" height="40"/>
+ <img src="vscode.webp" alt="vscode" width="40" height="40"/>
+ <img src="aws.webp" alt="aws" width="40" height="40"/>
  <img src="docker.png" alt="docker" width="40" height="40"/>
- <img src="bootstrap.png" alt="bootstrap" width="40" height="40"/>
+  <img src="kubernetes.png" alt="kubernetes" width="40" height="40"/>
  <img src="chatgpt.jpg" alt="chatgpt" width="40" height="40"/>
  <img src="gemini.png" alt="gemini" width="40" height="40"/>
- <img src="jira.jpeg" alt="jira" width="40" height="40"/>
- <img src="junit.png" alt="junit" width="40" height="40"/>
- <img src="tailwind.png" alt="tailwind" width="40" height="40"/>
- <img src="mockito.png" alt="mockito" width="40" height="40"/>
- <img src="kubernetes.png" alt="kubernetes" width="40" height="40"/>
- <img src="mysql.png" alt="mysql" width="40" height="40"/>
- <img src="postgres.jpeg" alt="postgres" width="40" height="40"/>
 </p>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunv-av&show_icons=true&locale=en&layout=compact" alt="arunv-av" /></p>
