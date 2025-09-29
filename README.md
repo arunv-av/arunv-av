@@ -52,6 +52,7 @@
  <img src="eclipse.png" alt="eclipse" width="40" height="40"/>
  <img src="intellij.jpeg" alt="intellij" width="40" height="40"/>
  <img src="vscode.webp" alt="vscode" width="40" height="40"/>
+ <img src="github.png" alt="github" width="40" height="40"/>
  <img src="aws.webp" alt="aws" width="40" height="40"/>
  <img src="docker.png" alt="docker" width="40" height="40"/>
   <img src="kubernetes.png" alt="kubernetes" width="40" height="40"/>
