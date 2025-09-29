@@ -26,7 +26,7 @@
  <img src="springsecurity.png" alt="springsecurity" width="40" height="40"/>
  <img src="sql.png" alt="sql" width="40" height="40"/>
  <img src="thymeleaf.png" alt="thymeleaf" width="40" height="40"/>
- <img src="docker.jpg" alt="docker" width="40" height="40"/>
+ <img src="docker.png" alt="docker" width="40" height="40"/>
  <img src="eclipse.png" alt="eclipse" width="40" height="40"/>
  <img src="intellij.jpeg" alt="intellij" width="40" height="40"/>
  <img src="vscode.webp" alt="vscode" width="40" height="40"/>
